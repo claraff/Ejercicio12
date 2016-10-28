@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="rojo">#ff0000</color>
+    <color name="naranja">#FFff6600</color>
+    <color name="amarillo">#FFF2C636</color>
+    <color name="verde">#FF00ff00</color>
+    <color name="azul">#FF2F95E2</color>
+    <color name="rosa">#FFF15CCE</color>
+    <color name="violeta">#FFC18AE9</color>
+    <color name="blanco">#FFFAFAFA</color>
+    <color name="negro">#FF000000</color>
+
+
+    <color name="rojoTransp">#99ff0000</color>
+    <color name="naranjaTransp">#99ff6600</color>
+    <color name="amarilloTransp">#99F2C636</color>
+    <color name="verdeTransp">#9900ff00</color>
+    <color name="azulTransp">#992F95E2</color>
+    <color name="violetaTransp">#99C18AE9</color>
+    <color name="rosaTransp">#bbF15CCE</color>
+    <color name="negroTransp">#99000000</color>
+    <color name="blancoTransp">#99ffffff</color>
+</resources>
